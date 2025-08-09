@@ -13,10 +13,15 @@ The Green Cart – Sales & Performance Dashboard is an interactive Power BI repo
 It combines real-time KPIs, category-level insights, and geographic trends to help stakeholders make informed business decisions.
 
 **KPI Highlights**: $1.20M total sales, $141 avg sales, 8,523 items sold, 3.9 avg rating.
+
 **Trend Analysis**: Yearly sales growth and fluctuations from 2010 to 2022.
+
 **Product Insights**: Sales breakdown by fat content, item type, and category performance.
+
 **Outlet Analysis**: Performance by location tier, outlet size, and type.
+
 **Interactive Filters**: Dynamic slicers for targeted analysis by outlet location, size, and item type.
+
 This dashboard delivers a clear, visual, and data-driven view of business performance, empowering decision-makers to optimize product offerings, outlet strategies, and marketing campaigns.
 
 ---
@@ -24,11 +29,17 @@ This dashboard delivers a clear, visual, and data-driven view of business perfor
 ## 🚀 Key Features
 
 Real-Time KPIs – Displays Total Sales ($1.20M), Average Sales ($141), Number of Items Sold (8,523), and Average Ratings (3.9).
+
 Sales Trend Analysis – Year-wise outlet sales performance from 2010 to 2022, highlighting peak and low periods.
+
 Product Category Insights – Breakdown of sales by fat content (Low Fat vs Regular) and item type (e.g., Fruits, Snacks, Household, Frozen Foods).
+
 Geographic Analysis – Sales distribution by outlet location tiers (Tier 1, Tier 2, Tier 3).
+
 Outlet Size & Type Analysis – Performance comparison between small, medium, and large outlets; insights into different outlet types like Supermarkets and Grocery Stores.
+
 Interactive Filters – Slicers for outlet location, size, and item type for targeted analysis.
+
 Visually Engaging Design – Clean layout with donut charts, bar charts, line charts, and KPI cards for easy interpretation.
 
 ---
